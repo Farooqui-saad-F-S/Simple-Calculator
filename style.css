@@ -59,3 +59,13 @@ button{
 .operator{
     color: #6dee0a
 }
+
+@media (max-width: 480px ) {
+    input {
+        width: 235px;
+    }
+    button {
+        width: 40px;
+        height: 40px;
+    }
+}
